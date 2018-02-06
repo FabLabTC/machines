@@ -54,7 +54,7 @@
    2. Установка расширения
       ```bash
       # клонирование репозитория в текущую папку
-      git clone https://github.com/lexelby/inkscape-embroidery
+      git clone https://github.com/lexelby/inkstitch.git
       # перемещение содержимого в пользовотельскую папку Inkscape расширений
       mv inkscape-embroidery/* $HOME/.config/inkscape/extensions
       # удаление пустой папки
